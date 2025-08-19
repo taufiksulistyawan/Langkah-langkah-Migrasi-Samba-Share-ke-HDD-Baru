@@ -1,1 +1,0 @@
-# Langkah-langkah-Migrasi-Samba-Share-ke-HDD-Baru
